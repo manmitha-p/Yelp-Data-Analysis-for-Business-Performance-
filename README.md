@@ -51,6 +51,7 @@ In the project, several tools and techniques were used to analyze the Yelp datas
 <img src = "Images/Distribution of Ratings.png">
 3. Top 20 organizations count by city
 <img src = "Images/Top 20.png">
+
 # Clustering analysis
 # Rating vs. Number of Reviews
 
